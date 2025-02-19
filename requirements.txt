@@ -1,2 +1,5 @@
-rasterio
 netCDF4
+numpy
+matplotlib
+scipy
+sklearn
