@@ -34,7 +34,7 @@ This repository contains my submission for the **Week 4 Assignment**, where I cl
 - The confusion matrix helps quantify **accuracy** and **misclassifications**.
 
 ## References
-- [Assignment Guidelines](https://drive.google.com/file/d/1HDSLjsWhLIDF-qbRj6sbGVd9t1LB7890/view?usp=drive_link)
+- [Assignment4](https://drive.google.com/file/d/1HDSLjsWhLIDF-qbRj6sbGVd9t1LB7890/view?usp=drive_link)
 - [Best README Template](https://github.com/othneildrew/Best-README-Template)
   
 ---
