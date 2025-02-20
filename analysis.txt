@@ -1,0 +1,10 @@
+The confusion matrix confirms high agreement between the model and ESA’s classification.
+8856 ccorrectly classified as sea ice
+3293 ccorrectly classified as leads
+22 leads misclassified as sea ice
+24 sea ice misclassified as leads
+So, only 46samples were misclassified out of 12195 samples.
+Therefore the classification model is reliable. 
+
+The classification report shows the precision and recall aligns closely with ESA's official labels.
+Overall, the echo classification is highly accurate, with strong alignment to ESA’s official dataset.
